@@ -53,6 +53,13 @@ main {
     padding: 0 20px;
 }
 
+.login-body{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    max-height: 600px;
+    padding: 40px;
+}
 .content {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
